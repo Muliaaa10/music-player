@@ -14,27 +14,27 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.mp3',
+        path: '1.mp3',
         displayName: '505',
-        cover: 'assets/1.jpg',
+        cover: '1.jpg',
         artist: 'Artic Monkeys',
     },
     {
-        path: 'assets/2.mp3',
+        path: '2.mp3',
         displayName: 'Do I Wanna Know?',
-        cover: 'assets/2.jpg',
+        cover: '2.jpg',
         artist: 'Artic Monkeys',
     },
     {
-        path: 'assets/3.mp3',
+        path: '3.mp3',
         displayName: 'R U Mine?',
-        cover: 'assets/3.jpg',
+        cover: '3.jpg',
         artist: 'Artic Monkeys',
     },
     {
-        path: 'assets/4.mp3',
+        path: '4.mp3',
         displayName: 'Why You Call Me When Your High?',
-        cover: 'assets/4.jpg',
+        cover: '4.jpg',
         artist: 'Artic Monkeys',
     },
 ];
